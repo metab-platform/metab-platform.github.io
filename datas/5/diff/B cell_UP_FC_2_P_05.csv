@@ -1,0 +1,62 @@
+"","Super class","Foldchange (young vs aged)","P value"
+"ACar(6:0)","",5.06,8.42e-17
+"Adenosine monophosphate","Nucleosides, nucleotides, and analogues",29.1,2.19e-15
+"Inosinic acid","Nucleosides, nucleotides, and analogues",43.1,9.62e-15
+"21-Hydroxy-5b-pregnane-3,11,20-trione","Lipids and lipid-like molecules",2.99,2.29e-13
+"Val Lys Ser","Organic acids and derivatives",2.87,6.69e-13
+"Spergualin","",3.4,1.52e-12
+"MG(22:6(4Z,7Z,10Z,13Z,16Z,19Z)/0:0/0:0)","Lipids and lipid-like molecules",3.35,4.03e-12
+"Guanosine monophosphate","Nucleosides, nucleotides, and analogues",3.98,1.95e-11
+"Glutathione","Organic acids and derivatives",10.5,2.45e-11
+"N-stearoyl taurine","",3.45,7.02e-11
+"2-(aminomethyl)-1-(3-methoxyphenyl)cyclohexan-1-ol","",3.19,3.11e-10
+"N-3-oxo-tetradecanoyl-L-Homoserine lactone","",2.2,1.49e-09
+"PE(5:0/22:5)","Lipids and lipid-like molecules",2.01,2.19e-09
+"N-(Heptan-4-yl)benzo[d][1,3]dioxole-5-carboxamide","Organoheterocyclic compounds",2.09,3.91e-09
+"[[(2S,3R,4S,5S)-5-(6-aminopurin-9-yl)-3,4-dihydroxyoxolan-2-yl]methoxy-hydroxyphosphoryl] [(2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl] hydrogen phosphate","",2.42,5.98e-09
+"ADP-glucose","Nucleosides, nucleotides, and analogues",2.72,6.63e-09
+"Leucyl-Serine","Organic acids and derivatives",2.19,9.04e-09
+"21-hydroxy-heneicosanoic acid","",4.21,1.41e-08
+"S-Adenosylhomocysteine","Nucleosides, nucleotides, and analogues",2.4,4.73e-08
+"Bis (2-hydroxypropyl) amine","",7.62,1.17e-07
+"Lipoxin A4","Lipids and lipid-like molecules",2.32,3.16e-07
+"PE(18:1e/2:0)","Lipids and lipid-like molecules",3.17,9.49e-07
+"U-46619 Glycine methyl ester","",3.3,1.03e-06
+"Oxidized glutathione","Organic acids and derivatives",13.6,1.05e-06
+"2-(14-methylpentadecanoylamino)-3-phenylpropanoic acid","",4.62,1.79e-06
+"5,6-DHET","Lipids and lipid-like molecules",9.86,2e-06
+"Propionylcarnitine","Lipids and lipid-like molecules",2.17,3.55e-06
+"Serylisoleucine","Organic acids and derivatives",2.11,9.44e-06
+"Jasmonic acid","Lipids and lipid-like molecules",2.48,1.1e-05
+"Adenosine diphosphate ribose","Nucleosides, nucleotides, and analogues",3.24,1.62e-05
+"PMeOH(24:1/22:6)","",2.45,1.93e-05
+"IDP","Nucleosides, nucleotides, and analogues",14.5,2.44e-05
+"CAY10590","",3.6,2.68e-05
+"1alpha,25-dihydroxy-19-norvitamin D3 / 1alpha,25-dihydroxy-19-norcholecalciferol","",4.9,2.72e-05
+"3-bromo-N-methylaniline","",3.39,3.04e-05
+"TAG(16:0/22:1/22:1)","Lipids and lipid-like molecules",8.77,5.98e-05
+"ACar(25:0)","",2.27,8.84e-05
+"OxPI(18:0/20:4+1O(1Cyc))","",2.01,0.000225
+"DGTS(2:0/18:4)","",2.93,0.000311
+"[(1S,2R,7S,10R,16R,17R,18R,20S)-7-[(2S,3R,4S,5S)-3-[(2S,3R,4R,5S)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxy-5-hydroxy-4-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyoxan-2-yl]oxy-16-hydroxy-2,6,6,10,16-pentamethyl-18-[(2R)-3-methylbut-3-en-2-yl]-19,21-dioxahexacyclo[18.2.1.01,14.02,11.05,10.015,20]tricosan-17-yl] acetate","",5.64,0.000461
+"Dehydroabietic acid","Lipids and lipid-like molecules",5.81,0.000501
+"LPI(20:4)","Lipids and lipid-like molecules",2.13,0.00061
+"Lyso-","",3.53,0.000784
+"PC(16:0/0:0)[U] / PC(16:0/0:0)[rac]","Lipids and lipid-like molecules",2.09,0.00154
+"PI(20:5/20:5)","Lipids and lipid-like molecules",2.68,0.00296
+"CETRIMONIUM","",3.11,0.00329
+"TAG(18:2/22:7/22:7)","Lipids and lipid-like molecules",6.93,0.00521
+"GlcADG(27:0/24:2)","",3.36,0.00588
+"L-Glutamic acid","Organic acids and derivatives",2.32,0.00603
+"Creatinine","Organic acids and derivatives",4.45,0.00758
+"N-palmitoyl taurine","",5.29,0.0095
+"GlcADG(22:0/27:0)","",2.18,0.0114
+"HexCer/NS(d15:3/40:2)","",2.61,0.0115
+"N-oleoyl alanine","",2.78,0.0138
+"Met Trp Phe Phe","Organic acids and derivatives",2.37,0.0159
+"Cer/AS(d18:2/18:2)","",2.47,0.0166
+"Met Tyr Arg His","Organic acids and derivatives",4.35,0.0189
+"HexCer/NS(d14:3/25:1)","",2.57,0.0207
+"Yiamoloside B","",2.45,0.0305
+"N,N-dimethyl-Safingol","",2.06,0.0327
+"LPC(15:0)","Lipids and lipid-like molecules",6.57,0.0372

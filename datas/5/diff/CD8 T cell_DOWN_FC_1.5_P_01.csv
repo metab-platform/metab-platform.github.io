@@ -1,0 +1,233 @@
+"","Super class","Foldchange (young vs aged)","P value"
+"19(20)-EpDPE","Lipids and lipid-like molecules",0.154,4.28e-16
+"TRIPTOPHENOLIDE","",0.513,6.13e-16
+"Dihydro Isorescinnamine","",0.0705,6.48e-16
+"Leukotriene B4","Lipids and lipid-like molecules",0.208,7.99e-15
+"Ginkgoic acid","Benzenoids",0.215,1.45e-14
+"Phenylacetic acid","Benzenoids",0.336,2.84e-14
+"2-[3-(dodecanoylamino)propyl-dimethylazaniumyl]acetate","",0.657,3.25e-13
+"N-(3E-hexadecenoyl)-deoxysphing-4-enine-1-sulfonate","",0.413,3.59e-13
+"1-tetradecanoyl-sn-glycero-3-phosphate","Lipids and lipid-like molecules",0.0729,4.84e-13
+"PC(2:0/18:3)","Lipids and lipid-like molecules",0.344,9.77e-13
+"N-[(4-Hydroxy-3-methoxyphenyl)methyl]octanamide","",0.488,1.24e-12
+"(3S)-5-[(1R,2R,8aS)-2-hydroxy-2,5,5,8a-tetramethyl-3,4,4a,6,7,8-hexahydro-1H-naphthalen-1-yl]-3-methylpentanoic acid","",0.251,1.42e-12
+"STS-135","",0.572,2.12e-12
+"Dehydrocholic acid","",0.135,2.14e-12
+"16,16-dimethyl-PGA1","",0.047,5.49e-12
+"3-(1,1-Dimethyl-2-propenyl)-8-(3-methyl-2-butenyl)xanthyletin","Phenylpropanoids and polyketides",0.127,6.2e-12
+"Dehydroabietic acid","Lipids and lipid-like molecules",0,6.48e-12
+"Adenosine diphosphate ribose","Nucleosides, nucleotides, and analogues",0.382,1.75e-11
+"D-Pinitol 2-O-alpha-D-Galactopyranosyl","Organic oxygen compounds",0.558,1.96e-11
+"Asn Trp Trp Trp","Organic acids and derivatives",0.336,2.07e-11
+"(4aS,6aS,6bR,9R,10S,12aR,14bS)-10-[(2S,3R,4S,5S)-3-[(2S,3R,4R,5S,6S)-3,5-dihydroxy-6-methyl-4-[(2S,3R,4S,5R)-3,4,5-trihydroxyoxan-2-yl]oxyoxan-2-yl]oxy-4,5-dihydroxyoxan-2-yl]oxy-9-(hydroxymethyl)-2,2,6a,6b,9,12a-hexamethyl-1,3,4,5,6,6a,7,8,8a,10,11,12,13,14b-tetradecahydropicene-4a-carboxylic acid","",0,2.22e-11
+"2-Hydroxy-6-pentadecylbenzoic acid","Benzenoids",0.2,2.55e-11
+"1,1'-[1,11-Undecanediylbis(oxy)]bisbenzene","Benzenoids",0.355,2.88e-11
+"Adenosine monophosphate","Nucleosides, nucleotides, and analogues",0.539,3.71e-11
+"BMP(22:6/22:6)","",0.376,4.02e-11
+"Anandamide (18:3, n-6)","Organic nitrogen compounds",0.125,4.34e-11
+"Ethyl isopropyl disulfide","Organosulfur compounds",0.376,6.15e-11
+"Thromboxane B2","Lipids and lipid-like molecules",0.448,6.59e-11
+"2-Naphthalenesulfonic acid","",0.412,6.8e-11
+"5-O-Desmethyldonepezil","Organoheterocyclic compounds",0,1.14e-10
+"2-(4-Hydroxyphenyl)naphthalic anhydride","Benzenoids",0.599,1.2e-10
+"17-HDoHE","Lipids and lipid-like molecules",0.0405,1.41e-10
+"Asn Gln Tyr Glu","Organic acids and derivatives",0.0209,1.5e-10
+"Docosahexaenoic acid","Lipids and lipid-like molecules",0.158,1.69e-10
+"Inosine","Nucleosides, nucleotides, and analogues",0.383,2.13e-10
+"2-dec-9-enyl-3-hydroxypentanedioic acid","",0.484,2.33e-10
+"PC(2:0/16:1)","Lipids and lipid-like molecules",0.143,2.39e-10
+"15-KETE","Lipids and lipid-like molecules",0.386,2.66e-10
+"Rebaudioside A","Lipids and lipid-like molecules",0.235,2.85e-10
+"all-trans-Retinoic acid","Lipids and lipid-like molecules",0.0123,3.03e-10
+"Idebenone","",0.634,3.43e-10
+"SQDG(18:2/20:4)","Lipids and lipid-like molecules",0.382,4.42e-10
+"8-HETrE","",0.232,4.63e-10
+"8-Isoprostaglandin F2a","Lipids and lipid-like molecules",0.0283,5.02e-10
+"Gancaonin U","Benzenoids",0.022,6.29e-10
+"Hepoxilin B3","Lipids and lipid-like molecules",0.126,6.93e-10
+"2-Amino-1,7,9-trimethylimidazo[4,5-g]quinoxaline","Organoheterocyclic compounds",0.537,7.05e-10
+"Glutathione","Organic acids and derivatives",0.23,7.49e-10
+"Lucidine B","",0.426,7.82e-10
+"(6Z,9Z,11E,13S)-13-hydroperoxyoctadeca-6,9,11-trienoic acid","",0.51,8.48e-10
+"1(3)-glyceryl-PGD2","",0.512,1.32e-09
+"PC(2:0/20:5)","Lipids and lipid-like molecules",0.326,1.35e-09
+"DGTS(14:0/14:0)","",0.531,1.46e-09
+"7-Ketocholesterol","Lipids and lipid-like molecules",0.537,1.87e-09
+"13,14-dihydro Prostaglandin F1alpha","",0.0657,2.04e-09
+"13E-Docosenamide","",0.636,2.12e-09
+"2-Hydroxy-6-(8,11,14-pentadecatrienyl)benzoic acid","Benzenoids",0.0809,3.14e-09
+"Tokinolide A","Organoheterocyclic compounds",0.0323,3.3e-09
+"Guanosine","Nucleosides, nucleotides, and analogues",0.422,3.32e-09
+"S-Adenosylmethionine","Nucleosides, nucleotides, and analogues",0.616,3.74e-09
+"8-butyl-5-ethyl-5,6,7,8-tetrahydronaphthalene-2-sulfonic acid","",0.415,3.8e-09
+"3-[(3S,8R,9S,10R,13R,14S,17R)-3-[(2R,3R,4S,5S,6R)-4,5-dihydroxy-6-(hydroxymethyl)-3-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyoxan-2-yl]oxy-14-hydroxy-10,13-dimethyl-1,2,3,4,7,8,9,11,12,15,16,17-dodecahydrocyclopenta[a]phenanthren-17-yl]-2H-furan-5-one","",0.253,4.51e-09
+"[[(2S,3R,4S,5S)-5-(6-aminopurin-9-yl)-3,4-dihydroxyoxolan-2-yl]methoxy-hydroxyphosphoryl] [(3R)-3-hydroxy-2,2-dimethyl-4-oxo-4-[[3-oxo-3-(2-sulfanylethylamino)propyl]amino]butyl] hydrogen phosphate","",0.471,4.75e-09
+"Limonin","Lipids and lipid-like molecules",0.0325,6.18e-09
+"PC(P-16:0/14:1(9Z))","Lipids and lipid-like molecules",0.527,9.07e-09
+"1-Methylhistamine","Organic nitrogen compounds",0.31,1.07e-08
+"Glu Pro Gly Phe","Organic acids and derivatives",0.042,1.16e-08
+"Myristoleic acid","Lipids and lipid-like molecules",0.581,1.26e-08
+"Met Arg Gln Trp","Organic acids and derivatives",0.0228,1.32e-08
+"3-Isoxazolidinone","Organoheterocyclic compounds",0.524,1.37e-08
+"7,17-dihydroxy-8(E),10(Z),13(Z),15(E),19(Z)-Docosapentaenoic Acid","",0.0281,1.44e-08
+"[(1R,3E,5R,7S,11S,13S,14S)-1,11-diacetyloxy-13-benzoyloxy-3,6,6,14-tetramethyl-10-methylidene-2-oxo-9-tricyclo[10.3.0.05,7]pentadec-3-enyl] 2-hydroxybenzoate","",0,1.48e-08
+"Cys Trp Ile Lys","Organic acids and derivatives",0.182,1.88e-08
+"Lys Arg Lys Gly","Organic acids and derivatives",0.42,1.9e-08
+"Ile Ser Val Asp","Organic acids and derivatives",0.299,2.09e-08
+"6-trans-Leukotriene B4","Lipids and lipid-like molecules",0.106,2.25e-08
+"PS(20:5(5Z,8Z,11Z,14Z,17Z)/0:0)","Lipids and lipid-like molecules",0.0611,2.34e-08
+"Met Arg Tyr Ile","Organic acids and derivatives",0.157,2.44e-08
+"Oxytetracycline","Phenylpropanoids and polyketides",0.0781,2.73e-08
+"11,12-Dimethylrosmanol","Lipids and lipid-like molecules",0.0327,3.4e-08
+"Palmitoleoyl Ethanolamide","Organic nitrogen compounds",0.624,3.55e-08
+"Sesartemin","Lignans, neolignans and related compounds",0.295,4.02e-08
+"(2R,3R,4S,5R)-2-(3,8-dichloro-11H-indolo[2,3-a]carbazol-12-yl)oxane-3,4,5-triol","",0.582,4.34e-08
+"Pantothenol","Lipids and lipid-like molecules",0.523,4.72e-08
+"2-Hydroxy-6-(8-tridecenyl)benzoic acid","Benzenoids",0.298,5.07e-08
+"Met Pro Gly Gln","Organic acids and derivatives",0.19,6.98e-08
+"Ile Ala Lys Asp","Organic acids and derivatives",0,7.37e-08
+"2-Methyl-4,5-benzoxazole","Organoheterocyclic compounds",0.398,9.36e-08
+"N-Arachidonyl Maleimide","",0.224,9.87e-08
+"Stigmasterol","Lipids and lipid-like molecules",0.586,1.12e-07
+"Cortisol","Lipids and lipid-like molecules",0.566,1.12e-07
+"Phenylalanyl-Glycine","Organic acids and derivatives",0.616,1.89e-07
+"SQDG(18:0/16:1)","Lipids and lipid-like molecules",0.538,1.92e-07
+"SQDG(17:1/17:1)","Lipids and lipid-like molecules",0.611,2.45e-07
+"N-palmitoyl leucine","",0.397,2.61e-07
+"N-(14-Methylhexadecanoyl)pyrrolidine","Organoheterocyclic compounds",0.527,3.02e-07
+"4-decan-4-ylbenzenesulfonic acid","",0.536,3.36e-07
+"Cer/NDS(d24:0/42:1)","",0.0948,3.58e-07
+"Myricatomentoside I","Lignans, neolignans and related compounds",0,3.6e-07
+"Paliperidone","Organoheterocyclic compounds",0.0339,4.29e-07
+"2-(Methoxycarbonyl)-5-methyl-2,4-bis(3-methyl-2-butenyl)-6-(2-methyl-1-oxopropyl)-5-(4-methyl-3-pentenyl)cyclohexanone","Lipids and lipid-like molecules",0.637,4.35e-07
+"Grifolin","Lipids and lipid-like molecules",0.21,4.41e-07
+"Glu Glu Lys","Organic acids and derivatives",0.329,4.99e-07
+"Calafatimine","",0.573,6.35e-07
+"xi-2,5-Dihydro-2,4-dimethylthiazole","Organoheterocyclic compounds",0.478,6.66e-07
+"Ile Val Leu","Organic acids and derivatives",0.448,6.99e-07
+"(2S)-2-[(1S,2R)-1,2-dihydroxypentyl]-4-methoxy-2,3-dihydropyran-6-one","",0.311,7.38e-07
+"2,4,12-Octadecatrienoic acid isobutylamide","Lipids and lipid-like molecules",0.454,9.36e-07
+"PA(18:0/22:2(13Z,16Z))","Lipids and lipid-like molecules",0.273,9.49e-07
+"5-(1-Hydroxy-2-chloroethyl)-4-methylthiazole","",0.532,1.13e-06
+"Methyl (3x,4E,10R)-3,10-dihydroxy-4,11-dodecadiene-6,8-diynoate 10-glucoside","Lipids and lipid-like molecules",0.479,1.26e-06
+"LPE(18:2)","Lipids and lipid-like molecules",0.419,1.29e-06
+"16,16-dimethyl-PGD2","",0.569,1.36e-06
+"Leptomycin B","",0.293,1.37e-06
+"Armillaripin","Lipids and lipid-like molecules",0.0696,1.39e-06
+"Dihydroceramide C2","",0.486,1.39e-06
+"[6-[[6-[3,4-dihydroxy-2,5-bis(hydroxymethyl)oxolan-2-yl]oxy-3,4,5-trihydroxyoxan-2-yl]methoxy]-3,4,5-trihydroxyoxan-2-yl]methyl (E)-2-methylbut-2-enoate","",0.415,1.49e-06
+"[3,4,5-trihydroxy-6-[5-hydroxy-2-(4-hydroxy-3-methoxyphenyl)-4-oxochromen-7-yl]oxyoxan-2-yl]methyl (E)-but-2-enoate","",0.471,1.56e-06
+"(4aR,6aS,6bR,10S,12aR)-10-[(2R,3R,4R,5S,6R)-3-acetamido-6-[[(2R,3R,4S,5R,6R)-4,5-dihydroxy-6-methyl-3-[(2S,3R,4S,5R)-3,4,5-trihydroxyoxan-2-yl]oxyoxan-2-yl]oxymethyl]-4,5-dihydroxyoxan-2-yl]oxy-5-hydroxy-2,2,6a,6b,9,9,12a-heptamethyl-1,3,4,5,6,6a,7,8,8a,10,11,12,13,14b-tetradecahydropicene-4a-carboxylic acid","",0.0768,2.14e-06
+"Zymonic acid","Organoheterocyclic compounds",0.658,2.26e-06
+"9R,10S-Epoxy-3Z,6Z-eicosadiene","",0.17,2.49e-06
+"Licoricesaponin C2","Lipids and lipid-like molecules",0.141,2.56e-06
+"13-epi-12-oxo Phytodienoic Acid","",0.572,2.89e-06
+"Lipoxin A4","Lipids and lipid-like molecules",0.415,2.93e-06
+"NORETHINDRONE ACETATE","",0.468,3.33e-06
+"Amaroswerin","",0.495,3.36e-06
+"Prostaglandin E2","Lipids and lipid-like molecules",0.487,3.38e-06
+"(3R,7R,8R,8aS)-3,4'-dihydroxy-7'-(2-hydroxyethyl)-4,4,7,8a-tetramethylspiro[2,3,4a,5,6,7-hexahydro-1H-naphthalene-8,2'-3,8-dihydrofuro[2,3-e]isoindole]-6'-one","",0.402,3.7e-06
+"PS(20:1(11Z)/0:0)","Lipids and lipid-like molecules",0.144,3.88e-06
+"ACar(12:3)","",0.65,4.09e-06
+"6-O-Acetylaustroinulin","Lipids and lipid-like molecules",0.579,4.32e-06
+"NBD-Stearoyl-2-Arachidonoyl-sn-glycerol","",0.621,5.78e-06
+"Leupeptin","",0.379,5.99e-06
+"[(2S,3R,4S,5R,6R)-6-[[(1S,4aR,5S,7aS)-7-(hydroxymethyl)-1-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-1,4a,5,7a-tetrahydrocyclopenta[c]pyran-5-yl]oxy]-4,5-dihydroxy-2-methyloxan-3-yl] (E)-3-(3-hydroxy-4-methoxyphenyl)prop-2-enoate","",0.419,6.48e-06
+"Ginkgolide C","Lipids and lipid-like molecules",0.524,7.95e-06
+"PI(18:0/15-HETE)","Lipids and lipid-like molecules",0.407,8.79e-06
+"1,2'-Di-O-galloylhamamelofuranose","Benzenoids",0.387,9.15e-06
+"Cysteinyl-Proline","Organic acids and derivatives",0.411,1.01e-05
+"Ciprostene","",0,1.04e-05
+"4-Dodecylbenzenesulfonic Acid","Benzenoids",0.467,1.32e-05
+"MG(22:6(4Z,7Z,10Z,13Z,16Z,19Z)/0:0/0:0)","Lipids and lipid-like molecules",0.578,1.32e-05
+"Umbelliprenin","Lipids and lipid-like molecules",0.0773,1.37e-05
+"Leu Trp Trp Asp","Organic acids and derivatives",0.0781,1.5e-05
+"Flavanone 7-O-[alpha-L-rhamnosyl-(1->2)-beta-D-glucoside]","",0.379,1.6e-05
+"Prostaglandin A2","Lipids and lipid-like molecules",0.114,1.9e-05
+"Jaceidin 7-rhamnoside","",0.393,1.94e-05
+"Phenylalanyl-Alanine","Organic acids and derivatives",0.449,1.99e-05
+"Dulxanthone A","Organoheterocyclic compounds",0.5,2e-05
+"[2-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyphenyl]methyl 2-hydroxy-6-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxybenzoate","",0.435,2.15e-05
+"dodecyl hydrogen sulfate","",0.543,2.37e-05
+"Cysteineglutathione disulfide","Organic acids and derivatives",0.524,2.53e-05
+"Dephospho-CoA","Nucleosides, nucleotides, and analogues",0.506,2.6e-05
+"Stigmasta-4,6-dien-3-one","Lipids and lipid-like molecules",0.665,2.81e-05
+"5,9-dimethyltetracyclo[11.2.1.01,10.04,9]hexadecane-5,14-dicarboxylic acid","",0.474,2.95e-05
+"Ginkgolide B","Lipids and lipid-like molecules",0.52,3.14e-05
+"2-Phenylethyl 3-phenyl-2-propenoate","Phenylpropanoids and polyketides",0.628,3.35e-05
+"Glycerophosphocholine","Lipids and lipid-like molecules",0.509,3.36e-05
+"Met Thr Thr Asp","Organic acids and derivatives",0.46,5.03e-05
+"OxPI(18:0/20:5+3O(2Cyc))","",0.263,5.16e-05
+"Nevskin","Phenylpropanoids and polyketides",0.132,5.54e-05
+"Phenylethyl primeveroside","Organooxygen compounds",0.529,6.09e-05
+"Erucicoyl-EA","",0.607,6.78e-05
+"Leu-Nap-OH","",0.0407,6.8e-05
+"16,16-dimethyl-PGE1","",0,6.93e-05
+"17-phenoxy trinor PGF2alpha ethyl amide","",0.0119,8.62e-05
+"Glu Tyr Gln Asp","Organic acids and derivatives",0.51,8.86e-05
+"dCMP","Nucleosides, nucleotides, and analogues",0.383,9.29e-05
+"Asn-Trp-OH","Organic acids and derivatives",0.567,9.39e-05
+"6-Hydroxytricetin 6,7,3',5'-tetramethyl eter 5-rhamnoside","",0.491,0.000134
+"B-Norcholesterol","",0.411,0.000139
+"PG(20:5/22:6)","Lipids and lipid-like molecules",0.14,0.000142
+"Cer(d14:2(4E,6E)/18:0)","",0.236,0.00015
+"Butyl 3-O-caffeoylquinate","Organic oxygen compounds",0.516,0.000156
+"(10E,12Z)-(9S)-9-Hydroperoxyoctadeca-10,12-dienoic acid","Lipids and lipid-like molecules",0.494,0.000159
+"ACar(16:0)","",0.524,0.000162
+"Spergualin","",0.598,0.000171
+"Aegeline","",0.0919,0.000187
+"Sorbitan oleate","Lipids and lipid-like molecules",0.588,0.000189
+"Uridine diphosphate-N-acetylglucosamine","Nucleosides, nucleotides, and analogues",0.0427,0.000195
+"Alanyl-Leucine","Organic acids and derivatives",0.221,0.000244
+"O-Arachidonoyl Ethanolamine","Lipids and lipid-like molecules",0.191,0.00027
+"SQDG(22:4/20:5)","Lipids and lipid-like molecules",0.142,0.000283
+"2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]-4H-chromen-4-one","Phenylpropanoids and polyketides",0.631,0.000322
+"D-Ribulose 5-phosphate","Organooxygen compounds",0.605,0.000331
+"8-isoprostaglandin PGF2b","Lipids and lipid-like molecules",0.624,0.00039
+"Leukotriene A4-d5 methyl ester","",0.554,0.000391
+"Samandenone","",0.385,0.000609
+"Prostaglandin J2","Lipids and lipid-like molecules",0.155,0.00063
+"OxPI(18:0/20:3+2O(1Cyc))","",0.526,0.000635
+"Resolvin D2","Lipids and lipid-like molecules",0.637,0.000677
+"MEDICA 16","",0.47,0.000686
+"8,9-DiHETrE","Lipids and lipid-like molecules",0.441,0.000715
+"Benazeprilat","Organic acids and derivatives",0.284,0.000859
+"PI(3:0/20:4)","Lipids and lipid-like molecules",0,0.000882
+"[(4E,10E)-13,20-dihydroxy-8,14-dimethoxy-4,10,12,16-tetramethyl-3-oxo-2-azabicyclo[16.3.1]docosa-1(22),4,10,18,20-pentaen-9-yl] carbamate","",0.265,0.00108
+"PE(3:0/20:5)","Lipids and lipid-like molecules",0.409,0.00143
+"13,14-Dihydro PGE1","Lipids and lipid-like molecules",0.0673,0.00144
+"Lipoxin B4","Lipids and lipid-like molecules",0.638,0.00146
+"Ethyl menthane carboxamide","Lipids and lipid-like molecules",0.627,0.00151
+"5,6-DHET","Lipids and lipid-like molecules",0.163,0.00173
+"OxPI(18:0/20:4+3O(2Cyc))","",0.233,0.00177
+"Anandamide (18:4, n-3)","Organic nitrogen compounds",0.587,0.00187
+"3-Methyl-5-pentyl-2-furanundecanoic acid","Lipids and lipid-like molecules",0.538,0.00188
+"Subaphylline","Phenylpropanoids and polyketides",0.613,0.00204
+"PG(16:0/16:1)","Lipids and lipid-like molecules",0.608,0.00209
+"PE(3:0/20:4)","Lipids and lipid-like molecules",0.317,0.0021
+"Desglucocoroloside","Lipids and lipid-like molecules",0.414,0.00238
+"Val Val Val","Organic acids and derivatives",0.651,0.0024
+"6,8a-Seco-6,8a-deoxy-5-oxoavermectin ''2a'' aglycone","",0.53,0.00247
+"PMeOH(24:1/22:6)","",0.577,0.00363
+"(2R,3R,4R,6aR,6bS,8aR,14bR)-2,3,12-trihydroxy-4,6a,6b,11,11,14b-hexamethyl-8a-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxycarbonyl-1,2,3,4a,5,6,7,8,9,10,12,12a,14,14a-tetradecahydropicene-4-carboxylic acid","",0.0886,0.00404
+"Marshdimerin","Phenylpropanoids and polyketides",0.425,0.0042
+"Sinapoylputrescine","Phenylpropanoids and polyketides",0.29,0.00467
+"Piretanide sulfate","",0.606,0.00484
+"Methionine sulfoxide","Organic acids and derivatives",0.466,0.00551
+"(2E,4E,14E)-13-hydroperoxy-N-(2-methylpropyl)icosa-2,4,14-trienamide","",0.155,0.00553
+"Thiabendazole","Organoheterocyclic compounds",0.344,0.00554
+"6-Hydroxy-6a,12a-dehydro-alpha-toxicarol","",0,0.0057
+"(17Z)-1alpha,25-dihydroxy-26,27-dimethyl-17,20,22,22,23,23-hexadehydrovitamin D3 / (17Z)-1alpha,25-dihydroxy-26,27-dimethyl-17,20,22,22,23,23-hexadehydrocholecalciferol","",0,0.00659
+"PGF2alpha serinol amide","",0,0.00662
+"Cucurbitacin B","Lipids and lipid-like molecules",0.282,0.0067
+"Oroselone","Phenylpropanoids and polyketides",0.664,0.007
+"2,3-Dihydro-1H-pyrrolizine-5-carboxaldehyde","Organoheterocyclic compounds",0.0502,0.00744
+"DGTS(8:0/8:0)","",0.594,0.00792
+"CPA(16:0/0:0)","Lipids and lipid-like molecules",0,0.00819
+"Testosterone isocaproate","",0,0.00831
+"Lauroyl diethanolamide","Lipids and lipid-like molecules",0.58,0.00842
+"2,2,6,6-Tetramethyl-4-piperidinone","Organoheterocyclic compounds",0.51,0.00847
+"PS(22:1(11Z)/0:0)","Lipids and lipid-like molecules",0.499,0.00867
+"Lys Tyr Phe Phe","Organic acids and derivatives",0,0.00943
+"TAXOL C","",0.112,0.00975
+"6-[[8a-carboxy-4,4,6a,6b,11,11,14b-heptamethyl-10-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-1,2,3,4a,5,6,9,10,12,12a,14,14a-dodecahydropicen-3-yl]oxy]-3,4-dihydroxy-5-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyoxane-2-carboxylic acid","",0.265,0.00989
