@@ -1,0 +1,399 @@
+Sample Name,Cell Type,Group,Ion Mode,Download
+B cell-Young-Pos-1,B cell,Young,Positive,mzXML
+B cell-Young-Pos-2,B cell,Young,Positive,mzXML
+B cell-Young-Pos-3,B cell,Young,Positive,mzXML
+B cell-Young-Pos-4,B cell,Young,Positive,mzXML
+B cell-Young-Pos-5,B cell,Young,Positive,mzXML
+B cell-Young-Pos-6,B cell,Young,Positive,mzXML
+CD4 T cell-Young-Pos-1,CD4 T cell,Young,Positive,mzXML
+CD4 T cell-Young-Pos-2,CD4 T cell,Young,Positive,mzXML
+CD4 T cell-Young-Pos-3,CD4 T cell,Young,Positive,mzXML
+CD4 T cell-Young-Pos-4,CD4 T cell,Young,Positive,mzXML
+CD4 T cell-Young-Pos-5,CD4 T cell,Young,Positive,mzXML
+CD4 T cell-Young-Pos-6,CD4 T cell,Young,Positive,mzXML
+CD8 T cell-Young-Pos-1,CD8 T cell,Young,Positive,mzXML
+CD8 T cell-Young-Pos-2,CD8 T cell,Young,Positive,mzXML
+CD8 T cell-Young-Pos-3,CD8 T cell,Young,Positive,mzXML
+CD8 T cell-Young-Pos-4,CD8 T cell,Young,Positive,mzXML
+CD8 T cell-Young-Pos-5,CD8 T cell,Young,Positive,mzXML
+CD8 T cell-Young-Pos-6,CD8 T cell,Young,Positive,mzXML
+CLP-Young-Pos-1,Common lymphoid progenitor,Young,Positive,mzXML
+CLP-Young-Pos-2,Common lymphoid progenitor,Young,Positive,mzXML
+CLP-Young-Pos-3,Common lymphoid progenitor,Young,Positive,mzXML
+CLP-Young-Pos-4,Common lymphoid progenitor,Young,Positive,mzXML
+CLP-Young-Pos-5,Common lymphoid progenitor,Young,Positive,mzXML
+CLP-Young-Pos-6,Common lymphoid progenitor,Young,Positive,mzXML
+CMP-Young-Pos-1,Common myeloid progenitor,Young,Positive,mzXML
+CMP-Young-Pos-2,Common myeloid progenitor,Young,Positive,mzXML
+CMP-Young-Pos-3,Common myeloid progenitor,Young,Positive,mzXML
+CMP-Young-Pos-4,Common myeloid progenitor,Young,Positive,mzXML
+CMP-Young-Pos-5,Common myeloid progenitor,Young,Positive,mzXML
+CMP-Young-Pos-6,Common myeloid progenitor,Young,Positive,mzXML
+DC cell-Young-Pos-1,DC cell,Young,Positive,mzXML
+DC cell-Young-Pos-2,DC cell,Young,Positive,mzXML
+DC cell-Young-Pos-3,DC cell,Young,Positive,mzXML
+DC cell-Young-Pos-4,DC cell,Young,Positive,mzXML
+DC cell-Young-Pos-5,DC cell,Young,Positive,mzXML
+DC cell-Young-Pos-6,DC cell,Young,Positive,mzXML
+Erythrocyte-Young-Pos-1,Erythrocyte,Young,Positive,mzXML
+Erythrocyte-Young-Pos-2,Erythrocyte,Young,Positive,mzXML
+Erythrocyte-Young-Pos-3,Erythrocyte,Young,Positive,mzXML
+Erythrocyte-Young-Pos-4,Erythrocyte,Young,Positive,mzXML
+Erythrocyte-Young-Pos-5,Erythrocyte,Young,Positive,mzXML
+Erythrocyte-Young-Pos-6,Erythrocyte,Young,Positive,mzXML
+GMP-Young-Pos-1,Granulocyte/monocyte progenitor,Young,Positive,mzXML
+GMP-Young-Pos-2,Granulocyte/monocyte progenitor,Young,Positive,mzXML
+GMP-Young-Pos-3,Granulocyte/monocyte progenitor,Young,Positive,mzXML
+GMP-Young-Pos-4,Granulocyte/monocyte progenitor,Young,Positive,mzXML
+GMP-Young-Pos-5,Granulocyte/monocyte progenitor,Young,Positive,mzXML
+GMP-Young-Pos-6,Granulocyte/monocyte progenitor,Young,Positive,mzXML
+Granulocyte-Young-Pos-1,Granulocyte,Young,Positive,mzXML
+Granulocyte-Young-Pos-2,Granulocyte,Young,Positive,mzXML
+Granulocyte-Young-Pos-3,Granulocyte,Young,Positive,mzXML
+Granulocyte-Young-Pos-4,Granulocyte,Young,Positive,mzXML
+Granulocyte-Young-Pos-5,Granulocyte,Young,Positive,mzXML
+Granulocyte-Young-Pos-6,Granulocyte,Young,Positive,mzXML
+HSPC-Young-Pos-1,Hematopoietic stem and progenitor cell,Young,Positive,mzXML
+HSPC-Young-Pos-2,Hematopoietic stem and progenitor cell,Young,Positive,mzXML
+HSPC-Young-Pos-3,Hematopoietic stem and progenitor cell,Young,Positive,mzXML
+HSPC-Young-Pos-4,Hematopoietic stem and progenitor cell,Young,Positive,mzXML
+HSPC-Young-Pos-5,Hematopoietic stem and progenitor cell,Young,Positive,mzXML
+HSPC-Young-Pos-6,Hematopoietic stem and progenitor cell,Young,Positive,mzXML
+MEP-Young-Pos-1,Megakaryocyte/erythroid progenitor,Young,Positive,mzXML
+MEP-Young-Pos-2,Megakaryocyte/erythroid progenitor,Young,Positive,mzXML
+MEP-Young-Pos-3,Megakaryocyte/erythroid progenitor,Young,Positive,mzXML
+MEP-Young-Pos-4,Megakaryocyte/erythroid progenitor,Young,Positive,mzXML
+MEP-Young-Pos-5,Megakaryocyte/erythroid progenitor,Young,Positive,mzXML
+MEP-Young-Pos-6,Megakaryocyte/erythroid progenitor,Young,Positive,mzXML
+Macrophage-Young-Pos-1,Macrophage,Young,Positive,mzXML
+Macrophage-Young-Pos-2,Macrophage,Young,Positive,mzXML
+Macrophage-Young-Pos-3,Macrophage,Young,Positive,mzXML
+Macrophage-Young-Pos-4,Macrophage,Young,Positive,mzXML
+Macrophage-Young-Pos-5,Macrophage,Young,Positive,mzXML
+Macrophage-Young-Pos-6,Macrophage,Young,Positive,mzXML
+Megakaryocyte-Young-Pos-1,Megakaryocyte,Young,Positive,mzXML
+Megakaryocyte-Young-Pos-2,Megakaryocyte,Young,Positive,mzXML
+Megakaryocyte-Young-Pos-3,Megakaryocyte,Young,Positive,mzXML
+Megakaryocyte-Young-Pos-4,Megakaryocyte,Young,Positive,mzXML
+Megakaryocyte-Young-Pos-5,Megakaryocyte,Young,Positive,mzXML
+Megakaryocyte-Young-Pos-6,Megakaryocyte,Young,Positive,mzXML
+Monocyte-Young-Pos-1,Monocyte,Young,Positive,mzXML
+Monocyte-Young-Pos-2,Monocyte,Young,Positive,mzXML
+Monocyte-Young-Pos-3,Monocyte,Young,Positive,mzXML
+Monocyte-Young-Pos-4,Monocyte,Young,Positive,mzXML
+Monocyte-Young-Pos-5,Monocyte,Young,Positive,mzXML
+Monocyte-Young-Pos-6,Monocyte,Young,Positive,mzXML
+NK cell-Young-Pos-1,NK cell,Young,Positive,mzXML
+NK cell-Young-Pos-2,NK cell,Young,Positive,mzXML
+NK cell-Young-Pos-3,NK cell,Young,Positive,mzXML
+NK cell-Young-Pos-4,NK cell,Young,Positive,mzXML
+NK cell-Young-Pos-5,NK cell,Young,Positive,mzXML
+NK cell-Young-Pos-6,NK cell,Young,Positive,mzXML
+B cell-Aged-Pos-1,B cell,Aged,Positive,mzXML
+B cell-Aged-Pos-2,B cell,Aged,Positive,mzXML
+B cell-Aged-Pos-3,B cell,Aged,Positive,mzXML
+B cell-Aged-Pos-4,B cell,Aged,Positive,mzXML
+B cell-Aged-Pos-5,B cell,Aged,Positive,mzXML
+B cell-Aged-Pos-6,B cell,Aged,Positive,mzXML
+CD4 T cell-Aged-Pos-1,CD4 T cell,Aged,Positive,mzXML
+CD4 T cell-Aged-Pos-2,CD4 T cell,Aged,Positive,mzXML
+CD4 T cell-Aged-Pos-3,CD4 T cell,Aged,Positive,mzXML
+CD4 T cell-Aged-Pos-4,CD4 T cell,Aged,Positive,mzXML
+CD4 T cell-Aged-Pos-5,CD4 T cell,Aged,Positive,mzXML
+CD4 T cell-Aged-Pos-6,CD4 T cell,Aged,Positive,mzXML
+CD8 T cell-Aged-Pos-1,CD8 T cell,Aged,Positive,mzXML
+CD8 T cell-Aged-Pos-2,CD8 T cell,Aged,Positive,mzXML
+CD8 T cell-Aged-Pos-3,CD8 T cell,Aged,Positive,mzXML
+CD8 T cell-Aged-Pos-4,CD8 T cell,Aged,Positive,mzXML
+CD8 T cell-Aged-Pos-5,CD8 T cell,Aged,Positive,mzXML
+CD8 T cell-Aged-Pos-6,CD8 T cell,Aged,Positive,mzXML
+CLP-Aged-Pos-1,Common lymphoid progenitor,Aged,Positive,mzXML
+CLP-Aged-Pos-2,Common lymphoid progenitor,Aged,Positive,mzXML
+CLP-Aged-Pos-3,Common lymphoid progenitor,Aged,Positive,mzXML
+CLP-Aged-Pos-4,Common lymphoid progenitor,Aged,Positive,mzXML
+CLP-Aged-Pos-5,Common lymphoid progenitor,Aged,Positive,mzXML
+CLP-Aged-Pos-6,Common lymphoid progenitor,Aged,Positive,mzXML
+CMP-Aged-Pos-1,Common myeloid progenitor,Aged,Positive,mzXML
+CMP-Aged-Pos-2,Common myeloid progenitor,Aged,Positive,mzXML
+CMP-Aged-Pos-3,Common myeloid progenitor,Aged,Positive,mzXML
+CMP-Aged-Pos-4,Common myeloid progenitor,Aged,Positive,mzXML
+CMP-Aged-Pos-5,Common myeloid progenitor,Aged,Positive,mzXML
+CMP-Aged-Pos-6,Common myeloid progenitor,Aged,Positive,mzXML
+DC cell-Aged-Pos-1,DC cell,Aged,Positive,mzXML
+DC cell-Aged-Pos-2,DC cell,Aged,Positive,mzXML
+DC cell-Aged-Pos-3,DC cell,Aged,Positive,mzXML
+DC cell-Aged-Pos-4,DC cell,Aged,Positive,mzXML
+DC cell-Aged-Pos-5,DC cell,Aged,Positive,mzXML
+DC cell-Aged-Pos-6,DC cell,Aged,Positive,mzXML
+Erythrocyte-Aged-Pos-1,Erythrocyte,Aged,Positive,mzXML
+Erythrocyte-Aged-Pos-2,Erythrocyte,Aged,Positive,mzXML
+Erythrocyte-Aged-Pos-3,Erythrocyte,Aged,Positive,mzXML
+Erythrocyte-Aged-Pos-4,Erythrocyte,Aged,Positive,mzXML
+Erythrocyte-Aged-Pos-5,Erythrocyte,Aged,Positive,mzXML
+Erythrocyte-Aged-Pos-6,Erythrocyte,Aged,Positive,mzXML
+GMP-Aged-Pos-1,Granulocyte/monocyte progenitor,Aged,Positive,mzXML
+GMP-Aged-Pos-2,Granulocyte/monocyte progenitor,Aged,Positive,mzXML
+GMP-Aged-Pos-3,Granulocyte/monocyte progenitor,Aged,Positive,mzXML
+GMP-Aged-Pos-4,Granulocyte/monocyte progenitor,Aged,Positive,mzXML
+GMP-Aged-Pos-5,Granulocyte/monocyte progenitor,Aged,Positive,mzXML
+GMP-Aged-Pos-6,Granulocyte/monocyte progenitor,Aged,Positive,mzXML
+Granulocyte-Aged-Pos-1,Granulocyte,Aged,Positive,mzXML
+Granulocyte-Aged-Pos-2,Granulocyte,Aged,Positive,mzXML
+Granulocyte-Aged-Pos-3,Granulocyte,Aged,Positive,mzXML
+Granulocyte-Aged-Pos-4,Granulocyte,Aged,Positive,mzXML
+Granulocyte-Aged-Pos-5,Granulocyte,Aged,Positive,mzXML
+Granulocyte-Aged-Pos-6,Granulocyte,Aged,Positive,mzXML
+HSPC-Aged-Pos-1,Hematopoietic stem and progenitor cell,Aged,Positive,mzXML
+HSPC-Aged-Pos-2,Hematopoietic stem and progenitor cell,Aged,Positive,mzXML
+HSPC-Aged-Pos-3,Hematopoietic stem and progenitor cell,Aged,Positive,mzXML
+HSPC-Aged-Pos-4,Hematopoietic stem and progenitor cell,Aged,Positive,mzXML
+HSPC-Aged-Pos-5,Hematopoietic stem and progenitor cell,Aged,Positive,mzXML
+HSPC-Aged-Pos-6,Hematopoietic stem and progenitor cell,Aged,Positive,mzXML
+MEP-Aged-Pos-1,Megakaryocyte/erythroid progenitor,Aged,Positive,mzXML
+MEP-Aged-Pos-2,Megakaryocyte/erythroid progenitor,Aged,Positive,mzXML
+MEP-Aged-Pos-3,Megakaryocyte/erythroid progenitor,Aged,Positive,mzXML
+MEP-Aged-Pos-4,Megakaryocyte/erythroid progenitor,Aged,Positive,mzXML
+MEP-Aged-Pos-5,Megakaryocyte/erythroid progenitor,Aged,Positive,mzXML
+MEP-Aged-Pos-6,Megakaryocyte/erythroid progenitor,Aged,Positive,mzXML
+Macrophage-Aged-Pos-1,Macrophage,Aged,Positive,mzXML
+Macrophage-Aged-Pos-2,Macrophage,Aged,Positive,mzXML
+Macrophage-Aged-Pos-3,Macrophage,Aged,Positive,mzXML
+Macrophage-Aged-Pos-4,Macrophage,Aged,Positive,mzXML
+Macrophage-Aged-Pos-5,Macrophage,Aged,Positive,mzXML
+Macrophage-Aged-Pos-6,Macrophage,Aged,Positive,mzXML
+Megakaryocyte-Aged-Pos-1,Megakaryocyte,Aged,Positive,mzXML
+Megakaryocyte-Aged-Pos-2,Megakaryocyte,Aged,Positive,mzXML
+Megakaryocyte-Aged-Pos-3,Megakaryocyte,Aged,Positive,mzXML
+Megakaryocyte-Aged-Pos-4,Megakaryocyte,Aged,Positive,mzXML
+Megakaryocyte-Aged-Pos-5,Megakaryocyte,Aged,Positive,mzXML
+Megakaryocyte-Aged-Pos-6,Megakaryocyte,Aged,Positive,mzXML
+Monocyte-Aged-Pos-1,Monocyte,Aged,Positive,mzXML
+Monocyte-Aged-Pos-2,Monocyte,Aged,Positive,mzXML
+Monocyte-Aged-Pos-3,Monocyte,Aged,Positive,mzXML
+Monocyte-Aged-Pos-4,Monocyte,Aged,Positive,mzXML
+Monocyte-Aged-Pos-5,Monocyte,Aged,Positive,mzXML
+Monocyte-Aged-Pos-6,Monocyte,Aged,Positive,mzXML
+NK cell-Aged-Pos-1,NK cell,Aged,Positive,mzXML
+NK cell-Aged-Pos-2,NK cell,Aged,Positive,mzXML
+NK cell-Aged-Pos-3,NK cell,Aged,Positive,mzXML
+NK cell-Aged-Pos-4,NK cell,Aged,Positive,mzXML
+NK cell-Aged-Pos-5,NK cell,Aged,Positive,mzXML
+NK cell-Aged-Pos-6,NK cell,Aged,Positive,mzXML
+B cell-Young-Neg-1,B cell,Young,Negative,mzXML
+B cell-Young-Neg-2,B cell,Young,Negative,mzXML
+B cell-Young-Neg-3,B cell,Young,Negative,mzXML
+B cell-Young-Neg-4,B cell,Young,Negative,mzXML
+B cell-Young-Neg-5,B cell,Young,Negative,mzXML
+B cell-Young-Neg-6,B cell,Young,Negative,mzXML
+CD4 T cell-Young-Neg-1,CD4 T cell,Young,Negative,mzXML
+CD4 T cell-Young-Neg-2,CD4 T cell,Young,Negative,mzXML
+CD4 T cell-Young-Neg-3,CD4 T cell,Young,Negative,mzXML
+CD4 T cell-Young-Neg-4,CD4 T cell,Young,Negative,mzXML
+CD4 T cell-Young-Neg-5,CD4 T cell,Young,Negative,mzXML
+CD4 T cell-Young-Neg-6,CD4 T cell,Young,Negative,mzXML
+CD8 T cell-Young-Neg-1,CD8 T cell,Young,Negative,mzXML
+CD8 T cell-Young-Neg-2,CD8 T cell,Young,Negative,mzXML
+CD8 T cell-Young-Neg-3,CD8 T cell,Young,Negative,mzXML
+CD8 T cell-Young-Neg-4,CD8 T cell,Young,Negative,mzXML
+CD8 T cell-Young-Neg-5,CD8 T cell,Young,Negative,mzXML
+CD8 T cell-Young-Neg-6,CD8 T cell,Young,Negative,mzXML
+CLP-Young-Neg-1,Common lymphoid progenitor,Young,Negative,mzXML
+CLP-Young-Neg-2,Common lymphoid progenitor,Young,Negative,mzXML
+CLP-Young-Neg-3,Common lymphoid progenitor,Young,Negative,mzXML
+CLP-Young-Neg-4,Common lymphoid progenitor,Young,Negative,mzXML
+CLP-Young-Neg-5,Common lymphoid progenitor,Young,Negative,mzXML
+CLP-Young-Neg-6,Common lymphoid progenitor,Young,Negative,mzXML
+CMP-Young-Neg-1,Common myeloid progenitor,Young,Negative,mzXML
+CMP-Young-Neg-2,Common myeloid progenitor,Young,Negative,mzXML
+CMP-Young-Neg-3,Common myeloid progenitor,Young,Negative,mzXML
+CMP-Young-Neg-4,Common myeloid progenitor,Young,Negative,mzXML
+CMP-Young-Neg-5,Common myeloid progenitor,Young,Negative,mzXML
+CMP-Young-Neg-6,Common myeloid progenitor,Young,Negative,mzXML
+DC cell-Young-Neg-1,DC cell,Young,Negative,mzXML
+DC cell-Young-Neg-2,DC cell,Young,Negative,mzXML
+DC cell-Young-Neg-3,DC cell,Young,Negative,mzXML
+DC cell-Young-Neg-4,DC cell,Young,Negative,mzXML
+DC cell-Young-Neg-5,DC cell,Young,Negative,mzXML
+DC cell-Young-Neg-6,DC cell,Young,Negative,mzXML
+Erythrocyte-Young-Neg-1,Erythrocyte,Young,Negative,mzXML
+Erythrocyte-Young-Neg-2,Erythrocyte,Young,Negative,mzXML
+Erythrocyte-Young-Neg-3,Erythrocyte,Young,Negative,mzXML
+Erythrocyte-Young-Neg-4,Erythrocyte,Young,Negative,mzXML
+Erythrocyte-Young-Neg-5,Erythrocyte,Young,Negative,mzXML
+Erythrocyte-Young-Neg-6,Erythrocyte,Young,Negative,mzXML
+GMP-Young-Neg-1,Granulocyte/monocyte progenitor,Young,Negative,mzXML
+GMP-Young-Neg-2,Granulocyte/monocyte progenitor,Young,Negative,mzXML
+GMP-Young-Neg-3,Granulocyte/monocyte progenitor,Young,Negative,mzXML
+GMP-Young-Neg-4,Granulocyte/monocyte progenitor,Young,Negative,mzXML
+GMP-Young-Neg-5,Granulocyte/monocyte progenitor,Young,Negative,mzXML
+GMP-Young-Neg-6,Granulocyte/monocyte progenitor,Young,Negative,mzXML
+Granulocyte-Young-Neg-1,Granulocyte,Young,Negative,mzXML
+Granulocyte-Young-Neg-2,Granulocyte,Young,Negative,mzXML
+Granulocyte-Young-Neg-3,Granulocyte,Young,Negative,mzXML
+Granulocyte-Young-Neg-4,Granulocyte,Young,Negative,mzXML
+Granulocyte-Young-Neg-5,Granulocyte,Young,Negative,mzXML
+Granulocyte-Young-Neg-6,Granulocyte,Young,Negative,mzXML
+HSPC-Young-Neg-1,Hematopoietic stem and progenitor cell,Young,Negative,mzXML
+HSPC-Young-Neg-2,Hematopoietic stem and progenitor cell,Young,Negative,mzXML
+HSPC-Young-Neg-3,Hematopoietic stem and progenitor cell,Young,Negative,mzXML
+HSPC-Young-Neg-4,Hematopoietic stem and progenitor cell,Young,Negative,mzXML
+HSPC-Young-Neg-5,Hematopoietic stem and progenitor cell,Young,Negative,mzXML
+HSPC-Young-Neg-6,Hematopoietic stem and progenitor cell,Young,Negative,mzXML
+MEP-Young-Neg-1,Megakaryocyte/erythroid progenitor,Young,Negative,mzXML
+MEP-Young-Neg-2,Megakaryocyte/erythroid progenitor,Young,Negative,mzXML
+MEP-Young-Neg-3,Megakaryocyte/erythroid progenitor,Young,Negative,mzXML
+MEP-Young-Neg-4,Megakaryocyte/erythroid progenitor,Young,Negative,mzXML
+MEP-Young-Neg-5,Megakaryocyte/erythroid progenitor,Young,Negative,mzXML
+MEP-Young-Neg-6,Megakaryocyte/erythroid progenitor,Young,Negative,mzXML
+Macrophage-Young-Neg-1,Macrophage,Young,Negative,mzXML
+Macrophage-Young-Neg-2,Macrophage,Young,Negative,mzXML
+Macrophage-Young-Neg-3,Macrophage,Young,Negative,mzXML
+Macrophage-Young-Neg-4,Macrophage,Young,Negative,mzXML
+Macrophage-Young-Neg-5,Macrophage,Young,Negative,mzXML
+Macrophage-Young-Neg-6,Macrophage,Young,Negative,mzXML
+Megakaryocyte-Young-Neg-1,Megakaryocyte,Young,Negative,mzXML
+Megakaryocyte-Young-Neg-2,Megakaryocyte,Young,Negative,mzXML
+Megakaryocyte-Young-Neg-3,Megakaryocyte,Young,Negative,mzXML
+Megakaryocyte-Young-Neg-4,Megakaryocyte,Young,Negative,mzXML
+Megakaryocyte-Young-Neg-5,Megakaryocyte,Young,Negative,mzXML
+Megakaryocyte-Young-Neg-6,Megakaryocyte,Young,Negative,mzXML
+Monocyte-Young-Neg-1,Monocyte,Young,Negative,mzXML
+Monocyte-Young-Neg-2,Monocyte,Young,Negative,mzXML
+Monocyte-Young-Neg-3,Monocyte,Young,Negative,mzXML
+Monocyte-Young-Neg-4,Monocyte,Young,Negative,mzXML
+Monocyte-Young-Neg-5,Monocyte,Young,Negative,mzXML
+Monocyte-Young-Neg-6,Monocyte,Young,Negative,mzXML
+NK cell-Young-Neg-1,NK cell,Young,Negative,mzXML
+NK cell-Young-Neg-2,NK cell,Young,Negative,mzXML
+NK cell-Young-Neg-3,NK cell,Young,Negative,mzXML
+NK cell-Young-Neg-4,NK cell,Young,Negative,mzXML
+NK cell-Young-Neg-5,NK cell,Young,Negative,mzXML
+NK cell-Young-Neg-6,NK cell,Young,Negative,mzXML
+B cell-Aged-Neg-1,B cell,Aged,Negative,mzXML
+B cell-Aged-Neg-2,B cell,Aged,Negative,mzXML
+B cell-Aged-Neg-3,B cell,Aged,Negative,mzXML
+B cell-Aged-Neg-4,B cell,Aged,Negative,mzXML
+B cell-Aged-Neg-5,B cell,Aged,Negative,mzXML
+B cell-Aged-Neg-6,B cell,Aged,Negative,mzXML
+CD4 T cell-Aged-Neg-1,CD4 T cell,Aged,Negative,mzXML
+CD4 T cell-Aged-Neg-2,CD4 T cell,Aged,Negative,mzXML
+CD4 T cell-Aged-Neg-3,CD4 T cell,Aged,Negative,mzXML
+CD4 T cell-Aged-Neg-4,CD4 T cell,Aged,Negative,mzXML
+CD4 T cell-Aged-Neg-5,CD4 T cell,Aged,Negative,mzXML
+CD4 T cell-Aged-Neg-6,CD4 T cell,Aged,Negative,mzXML
+CD8 T cell-Aged-Neg-1,CD8 T cell,Aged,Negative,mzXML
+CD8 T cell-Aged-Neg-2,CD8 T cell,Aged,Negative,mzXML
+CD8 T cell-Aged-Neg-3,CD8 T cell,Aged,Negative,mzXML
+CD8 T cell-Aged-Neg-4,CD8 T cell,Aged,Negative,mzXML
+CD8 T cell-Aged-Neg-5,CD8 T cell,Aged,Negative,mzXML
+CD8 T cell-Aged-Neg-6,CD8 T cell,Aged,Negative,mzXML
+CLP-Aged-Neg-1,Common lymphoid progenitor,Aged,Negative,mzXML
+CLP-Aged-Neg-2,Common lymphoid progenitor,Aged,Negative,mzXML
+CLP-Aged-Neg-3,Common lymphoid progenitor,Aged,Negative,mzXML
+CLP-Aged-Neg-4,Common lymphoid progenitor,Aged,Negative,mzXML
+CLP-Aged-Neg-5,Common lymphoid progenitor,Aged,Negative,mzXML
+CLP-Aged-Neg-6,Common lymphoid progenitor,Aged,Negative,mzXML
+CMP-Aged-Neg-1,Common myeloid progenitor,Aged,Negative,mzXML
+CMP-Aged-Neg-2,Common myeloid progenitor,Aged,Negative,mzXML
+CMP-Aged-Neg-3,Common myeloid progenitor,Aged,Negative,mzXML
+CMP-Aged-Neg-4,Common myeloid progenitor,Aged,Negative,mzXML
+CMP-Aged-Neg-5,Common myeloid progenitor,Aged,Negative,mzXML
+CMP-Aged-Neg-6,Common myeloid progenitor,Aged,Negative,mzXML
+DC cell-Aged-Neg-1,DC cell,Aged,Negative,mzXML
+DC cell-Aged-Neg-2,DC cell,Aged,Negative,mzXML
+DC cell-Aged-Neg-3,DC cell,Aged,Negative,mzXML
+DC cell-Aged-Neg-4,DC cell,Aged,Negative,mzXML
+DC cell-Aged-Neg-5,DC cell,Aged,Negative,mzXML
+DC cell-Aged-Neg-6,DC cell,Aged,Negative,mzXML
+Erythrocyte-Aged-Neg-1,Erythrocyte,Aged,Negative,mzXML
+Erythrocyte-Aged-Neg-2,Erythrocyte,Aged,Negative,mzXML
+Erythrocyte-Aged-Neg-3,Erythrocyte,Aged,Negative,mzXML
+Erythrocyte-Aged-Neg-4,Erythrocyte,Aged,Negative,mzXML
+Erythrocyte-Aged-Neg-5,Erythrocyte,Aged,Negative,mzXML
+Erythrocyte-Aged-Neg-6,Erythrocyte,Aged,Negative,mzXML
+GMP-Aged-Neg-1,Granulocyte/monocyte progenitor,Aged,Negative,mzXML
+GMP-Aged-Neg-2,Granulocyte/monocyte progenitor,Aged,Negative,mzXML
+GMP-Aged-Neg-3,Granulocyte/monocyte progenitor,Aged,Negative,mzXML
+GMP-Aged-Neg-4,Granulocyte/monocyte progenitor,Aged,Negative,mzXML
+GMP-Aged-Neg-5,Granulocyte/monocyte progenitor,Aged,Negative,mzXML
+GMP-Aged-Neg-6,Granulocyte/monocyte progenitor,Aged,Negative,mzXML
+Granulocyte-Aged-Neg-1,Granulocyte,Aged,Negative,mzXML
+Granulocyte-Aged-Neg-2,Granulocyte,Aged,Negative,mzXML
+Granulocyte-Aged-Neg-3,Granulocyte,Aged,Negative,mzXML
+Granulocyte-Aged-Neg-4,Granulocyte,Aged,Negative,mzXML
+Granulocyte-Aged-Neg-5,Granulocyte,Aged,Negative,mzXML
+Granulocyte-Aged-Neg-6,Granulocyte,Aged,Negative,mzXML
+HSPC-Aged-Neg-1,Hematopoietic stem and progenitor cell,Aged,Negative,mzXML
+HSPC-Aged-Neg-2,Hematopoietic stem and progenitor cell,Aged,Negative,mzXML
+HSPC-Aged-Neg-3,Hematopoietic stem and progenitor cell,Aged,Negative,mzXML
+HSPC-Aged-Neg-4,Hematopoietic stem and progenitor cell,Aged,Negative,mzXML
+HSPC-Aged-Neg-5,Hematopoietic stem and progenitor cell,Aged,Negative,mzXML
+HSPC-Aged-Neg-6,Hematopoietic stem and progenitor cell,Aged,Negative,mzXML
+MEP-Aged-Neg-1,Megakaryocyte/erythroid progenitor,Aged,Negative,mzXML
+MEP-Aged-Neg-2,Megakaryocyte/erythroid progenitor,Aged,Negative,mzXML
+MEP-Aged-Neg-3,Megakaryocyte/erythroid progenitor,Aged,Negative,mzXML
+MEP-Aged-Neg-4,Megakaryocyte/erythroid progenitor,Aged,Negative,mzXML
+MEP-Aged-Neg-5,Megakaryocyte/erythroid progenitor,Aged,Negative,mzXML
+MEP-Aged-Neg-6,Megakaryocyte/erythroid progenitor,Aged,Negative,mzXML
+Macrophage-Aged-Neg-1,Macrophage,Aged,Negative,mzXML
+Macrophage-Aged-Neg-2,Macrophage,Aged,Negative,mzXML
+Macrophage-Aged-Neg-3,Macrophage,Aged,Negative,mzXML
+Macrophage-Aged-Neg-4,Macrophage,Aged,Negative,mzXML
+Macrophage-Aged-Neg-5,Macrophage,Aged,Negative,mzXML
+Macrophage-Aged-Neg-6,Macrophage,Aged,Negative,mzXML
+Megakaryocyte-Aged-Neg-1,Megakaryocyte,Aged,Negative,mzXML
+Megakaryocyte-Aged-Neg-2,Megakaryocyte,Aged,Negative,mzXML
+Megakaryocyte-Aged-Neg-3,Megakaryocyte,Aged,Negative,mzXML
+Megakaryocyte-Aged-Neg-4,Megakaryocyte,Aged,Negative,mzXML
+Megakaryocyte-Aged-Neg-5,Megakaryocyte,Aged,Negative,mzXML
+Megakaryocyte-Aged-Neg-6,Megakaryocyte,Aged,Negative,mzXML
+Monocyte-Aged-Neg-1,Monocyte,Aged,Negative,mzXML
+Monocyte-Aged-Neg-2,Monocyte,Aged,Negative,mzXML
+Monocyte-Aged-Neg-3,Monocyte,Aged,Negative,mzXML
+Monocyte-Aged-Neg-4,Monocyte,Aged,Negative,mzXML
+Monocyte-Aged-Neg-5,Monocyte,Aged,Negative,mzXML
+Monocyte-Aged-Neg-6,Monocyte,Aged,Negative,mzXML
+NK cell-Aged-Neg-1,NK cell,Aged,Negative,mzXML
+NK cell-Aged-Neg-2,NK cell,Aged,Negative,mzXML
+NK cell-Aged-Neg-3,NK cell,Aged,Negative,mzXML
+NK cell-Aged-Neg-4,NK cell,Aged,Negative,mzXML
+NK cell-Aged-Neg-5,NK cell,Aged,Negative,mzXML
+NK cell-Aged-Neg-6,NK cell,Aged,Negative,mzXML
+QC01-Neg,,,Negative,mzXML
+QC02-Neg,,,Negative,mzXML
+QC03-Neg,,,Negative,mzXML
+QC04-Neg,,,Negative,mzXML
+QC05-Neg,,,Negative,mzXML
+QC06-Neg,,,Negative,mzXML
+QC07-Neg,,,Negative,mzXML
+QC08-Neg,,,Negative,mzXML
+QC09-Neg,,,Negative,mzXML
+QC10-Neg,,,Negative,mzXML
+QC011-Neg,,,Negative,mzXML
+QC012-Neg,,,Negative,mzXML
+QC013-Neg,,,Negative,mzXML
+QC014-Neg,,,Negative,mzXML
+QC015-Neg,,,Negative,mzXML
+QC016-Neg,,,Negative,mzXML
+QC017-Neg,,,Negative,mzXML
+QC018-Neg,,,Negative,mzXML
+QC019-Neg,,,Negative,mzXML
+QC01-Pos,,,Positive,mzXML
+QC02-Pos,,,Positive,mzXML
+QC03-Pos,,,Positive,mzXML
+QC04-Pos,,,Positive,mzXML
+QC05-Pos,,,Positive,mzXML
+QC06-Pos,,,Positive,mzXML
+QC07-Pos,,,Positive,mzXML
+QC08-Pos,,,Positive,mzXML
+QC09-Pos,,,Positive,mzXML
+QC10-Pos,,,Positive,mzXML
+QC011-Pos,,,Positive,mzXML
+QC012-Pos,,,Positive,mzXML
+QC013-Pos,,,Positive,mzXML
+QC014-Pos,,,Positive,mzXML
+QC015-Pos,,,Positive,mzXML
+QC016-Pos,,,Positive,mzXML
+QC017-Pos,,,Positive,mzXML
+QC018-Pos,,,Positive,mzXML
+QC019-Pos,,,Positive,mzXML
